@@ -34,7 +34,6 @@ Live
 
 Technologies used
 HTML
-Gothun
 Github
 Javascript
 
