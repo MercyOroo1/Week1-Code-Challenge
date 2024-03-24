@@ -31,6 +31,12 @@ Git clone
 
 Live link
 
+Technologies used
+HTML
+Github
+Javascript
+
+
 License 
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
