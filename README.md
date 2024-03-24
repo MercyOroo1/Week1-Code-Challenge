@@ -26,11 +26,15 @@ You use git clone to be able to download the documents in the GitHub
 Installation requirements 
 Git 
 
-Installation instruction 
-Git clone 
+Installation instruction
+Git clone git@github.com:MercyOroo1/Week1-Code-Challenge.git
+
+Live 
+ https://mercyoroo1.github.io/Week1-Code-Challenge/
 
 Technologies used
 HTML
+Gothun
 Github
 Javascript
 
